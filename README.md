@@ -6,6 +6,8 @@
 
 # Example :
 ```
+>> ipcalc.py 192.167.2.53/22
+
 Address: 192.167.2.53
 Mask: 255.255.252.0
 Cidr: 22

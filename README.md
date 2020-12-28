@@ -1,9 +1,11 @@
-# IP-Network-Broadcast-Address-Calculator
+# IP Network Broadcast Address Calculator
 
+```
 #!/usr/bin/env python3
 #Use: ./ipcalc.py <ip/cidr>
 #Alt: ./ipcalc.py <ip> <mask>
 
+```
 # Example :
 ```
 >> ipcalc.py 192.167.2.53/22
